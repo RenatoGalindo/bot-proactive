@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Implementation-Title: com.microsoft.bot.sample:bot-proactive
+Implementation-Version: sample
+Main-Class: com.microsoft.bot.sample.proactive.Application
+Created-By: Maven Integration for Eclipse
+
